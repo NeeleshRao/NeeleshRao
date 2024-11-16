@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **neeleshrao1@gmail.com**
 
-- 📄 Check out my resume [https://drive.google.com/file/d/10aHKtgvTBsT6xH-eeK93DzOQK5sQOfYJ/view?usp=sharing](https://drive.google.com/file/d/10aHKtgvTBsT6xH-eeK93DzOQK5sQOfYJ/view?usp=sharing)
+- 📄 Check out my resume [here](https://drive.google.com/file/d/10aHKtgvTBsT6xH-eeK93DzOQK5sQOfYJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
