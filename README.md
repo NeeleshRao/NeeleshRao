@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neelesh Rao</h1>
 <h3 align="center">Computer Science Senior at RVCE, Bengaluru</h3>
 
-- 🔭 I’m currently working on **Interplay of music, math and Quantum Computing**
+- 🔭 I’m currently working on the **Interplay of music, math and Quantum Computing**
 
 - 🌱 I’m currently learning **GoLang and Android App development**
 
