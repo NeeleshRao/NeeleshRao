@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Neelesh Rao</h1>
 <h3 align="center">Computer Science Senior at RVCE, Bengaluru</h3>
 
-- 🔭 I’m currently working on the **Interplay of music, math and Quantum Computing**
+- 🔭 I’m currently working on **Full Stack Development using SpringBoot, NextJS and MySQL**
 
-- 🌱 I’m currently learning **GoLang and Android App development**
+- 🌱 I’m currently learning **Android App development**
 
 - 👨‍💻 All of my projects are available at [my personal portfolio website](https://flat-skunk-36c.notion.site/Welcome-Here-s-My-Personal-Portfolio-124a2237e67f482799325653892a9f13)
 
