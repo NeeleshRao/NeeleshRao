@@ -4,9 +4,10 @@
 - 🔭 I’m currently working on **Data Engineering and GCP**
 <!--
 - 🌱 I’m currently learning ****
--->
+
 
 - 👨‍💻 All of my projects are available at [my personal portfolio website](https://flat-skunk-36c.notion.site/Welcome-Here-s-My-Personal-Portfolio-124a2237e67f482799325653892a9f13)
+-->
 
 - 💬 I am proficient in **Python and associated frameworks in Web Development and Machine Learning**
 
