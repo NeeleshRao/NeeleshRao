@@ -11,9 +11,9 @@
 
 - 💬 I am proficient in **Python and associated frameworks in Web Development and Machine Learning**
 
-- 📫 How to reach me **neeleshrao1@gmail.com**
+- 📫 How to reach me **neeleshrao1729@gmail.com**
 
-- 📄 Check out my resume [here](https://drive.google.com/file/d/1YEdQIZMSZ2kAOmkoStceEU-tQLOceU1D/view?usp=sharing)
+- 📄 Check out my resume [here](https://drive.google.com/file/d/1EZEtQXQK1HDIXh4sV5BGfOPrV6hF8cGt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
